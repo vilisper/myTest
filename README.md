@@ -1,5 +1,7 @@
 # myTest
-just a test project
+just a test project 
+
+# git初始化记录
 ## 本地初始化ssh rsa key
 * ssh-keygen -t rsa -C "github注册邮箱地址"
 * 把生成的pubkey复制到github profile下面的ssh key上
